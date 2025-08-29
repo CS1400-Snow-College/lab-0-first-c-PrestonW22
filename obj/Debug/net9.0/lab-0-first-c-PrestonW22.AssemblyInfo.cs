@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-0-first-c-PrestonW22")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5644527b4c08b29ea4594d13fcf7b866358d432e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9b2491393aeae44e73940350fec3beb3b71d86c")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-0-first-c-PrestonW22")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-0-first-c-PrestonW22")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
